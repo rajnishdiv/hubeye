@@ -44,7 +44,7 @@ spring:
       show-sql: "true"
       ddl-auto: none
   application:
-    name: hubeye-service
+    name: HUBEYE-SERVICE
 security:
   bff:
     enabled: true
